@@ -1,5 +1,5 @@
 #include<stdio.h>
-/* 
+/*
  * ====================================
  * AUTOR: Carlos Alfonso Bustos Olaya |
  * ====================================
@@ -10,7 +10,7 @@
  * -your program should end witch the |
  * value cero			      |
  * ====================================
- * *********main - Entry point********* 
+ * main - Entry point 
  */
 int main(void)
 {
