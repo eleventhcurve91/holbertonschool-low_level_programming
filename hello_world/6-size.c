@@ -7,6 +7,6 @@
  */
 int main(void)
 {
-	puts("Size of a char: ", sizeof(char) , "bytes(s)");
+	printf("Size of a char: ", sizeof(char) , "bytes(s)");
 	return (0);
 }
