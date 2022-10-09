@@ -2,7 +2,7 @@
 /* ===================================
  * AUTOR: Carlos Alfonso Bustos Olaya |
  * ===================================
- *            DESCRIPCION	      |
+ * ************DESCRIPCION************|
  * ===================================
  * -Use the function puts	      |
  * -you are not allowed to use printf |
