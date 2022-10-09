@@ -1,8 +1,7 @@
 #include<stdio.h>
 /*
  * main - Entry point
- * Description: prints "with proper grammar, but the outcome is a piece of
- * art,"
+ * Description: prints "main"
  * Return: Always 0 (Success)
  */
 /*
@@ -16,7 +15,6 @@
  * -your program should end witch the |
  * value cero			      |
  * ====================================
- * Return: Always 0 (Succes)
  */
 int main(void)
 {
