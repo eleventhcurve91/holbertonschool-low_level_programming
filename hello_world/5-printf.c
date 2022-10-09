@@ -1,10 +1,10 @@
 #include <stdio.h>
-
 /**
- * ====================================
- * main - Starting point for program  |
- * execution			      |
- * ====================================
+ * ======================================
+ * main - Starting point for program	|
+ * execution				|
+ * Return: Always 0 (Succes)		|
+ * ======================================
  * AUTOR: Carlos Alfonso Bustos Olaya |
  * ====================================
  * ************DESCRIPCION************|
