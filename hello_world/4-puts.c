@@ -1,5 +1,4 @@
 #include<stdio.h>
-
 /*
  * ===================================
  * AUTOR: Carlos Alfonso Bustos Olaya |
