@@ -1,6 +1,10 @@
 #include<stdio.h>
 /*
- * main - Entry point
+ * main - Starting point for program execution
+ *
+ *
+ */
+/*
  * ====================================
  * AUTOR: Carlos Alfonso Bustos Olaya |
  * ====================================
