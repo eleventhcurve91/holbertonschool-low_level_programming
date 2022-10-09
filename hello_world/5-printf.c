@@ -13,7 +13,7 @@
  * Return: Always 0 (Success)	      |
  * ====================================
  */
- /*
+ /**
   * main - Starting point for program execution
   * Return: Always 0 (Succes)
   */
