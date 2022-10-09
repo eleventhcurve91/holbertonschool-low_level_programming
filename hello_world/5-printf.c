@@ -1,10 +1,6 @@
 #include <stdio.h>
-/**
- * ======================================
- * main - Starting point for program	|
- * execution				|
- * Return: Always 0 (Succes)		|
- * ======================================
+/*
+ * ====================================
  * AUTOR: Carlos Alfonso Bustos Olaya |
  * ====================================
  * ************DESCRIPCION************|
@@ -17,6 +13,10 @@
  * Return: Always 0 (Success)	      |
  * ====================================
  */
+ /*
+  * main - Starting point for program execution
+  * Return: Always 0 (Succes)
+  */
 int main(void)
 {
 	printf("with proper grammar, but the outcome is a piece of art,\n");
