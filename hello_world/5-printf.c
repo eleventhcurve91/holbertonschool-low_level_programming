@@ -9,7 +9,7 @@
  * ====================================
  * ************DESCRIPCION************|
  * ====================================
- * -Use the function printf 	      |
+ * -Use the function printf	      |
  * -you are not allowed to use puts   |
  * -your program should end witch the |
  * value cero			      |
