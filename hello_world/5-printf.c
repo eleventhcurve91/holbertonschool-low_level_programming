@@ -1,6 +1,9 @@
 #include <stdio.h>
 
-/*
+/**
+ * ====================================
+ * main - Starting point for program  |
+ * execution			      |
  * ====================================
  * AUTOR: Carlos Alfonso Bustos Olaya |
  * ====================================
@@ -11,10 +14,8 @@
  * -your program should end witch the |
  * value cero			      |
  * ====================================
- */
-/*
- * main - Starting point for program execution
- * Return: Always 0 (Success)
+ * Return: Always 0 (Success)	      |
+ * ====================================
  */
 int main(void)
 {
