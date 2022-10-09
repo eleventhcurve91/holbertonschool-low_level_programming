@@ -1,6 +1,7 @@
 #include<stdio.h>
 
-/* ===================================
+/*
+ * ===================================
  * AUTOR: Carlos Alfonso Bustos Olaya |
  * ===================================
  * ************DESCRIPCION************|
@@ -15,5 +16,5 @@ int main(void)
 {
 	printf("\"Programming is like building a multilingual puzzle\n");
 	
-	return(0); 
+	return (0); 
 }
