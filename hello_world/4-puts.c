@@ -11,6 +11,7 @@
  * -your program should end witch the |
  * value cero			      |
  * ====================================
+ * Return: Always 0 (Succes)
  */
 int main(void)
 {
