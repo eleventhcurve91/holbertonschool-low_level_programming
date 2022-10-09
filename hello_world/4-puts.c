@@ -1,5 +1,5 @@
 #include<stdio.h>
-/*
+/* 
  * ====================================
  * AUTOR: Carlos Alfonso Bustos Olaya |
  * ====================================
@@ -9,7 +9,8 @@
  * -you are not allowed to use printf |
  * -your program should end witch the |
  * value cero			      |
- * =================-==================
+ * ====================================
+ * *********main - Entry point********* 
  */
 int main(void)
 {
