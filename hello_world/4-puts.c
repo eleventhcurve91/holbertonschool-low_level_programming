@@ -1,9 +1,19 @@
 #include<stdio.h>
-/*
- * main - Starting point for program execution
+/**
  *
+ *  * main - Entry point
  *
- */
+ *   *
+ *
+ *    * Description: prints "with proper grammar, but the outcome is a piece of
+ *
+ *     * art,"
+ *
+ *      *
+ *
+ *       * Return: Always 0 (Success)
+ *
+ *        */
 /*
  * ====================================
  * AUTOR: Carlos Alfonso Bustos Olaya |
