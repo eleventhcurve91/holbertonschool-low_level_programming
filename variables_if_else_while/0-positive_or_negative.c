@@ -5,10 +5,10 @@
 /**
  * main - Starting program
  * Return: Always 0 (Succes)
- * ====================================
- * Autor: Carlos Alfonso Bustos Olaya |
- * ====================================
- * ***********Description**************
+ * ======================================
+ * Autor: Carlos Alfonso Bustos Olaya	|
+ * ======================================
+ * ************Description***************
  * ======================================
  * -if the number is greater than 0:	|
  * is positive				|
