@@ -1,7 +1,11 @@
-#include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
+#include <stdio.h>
 
+/**
+ * man - init program
+ * return: 0 (succes) 
+ */
 int main(void)
 {
 	srand(time(0));
