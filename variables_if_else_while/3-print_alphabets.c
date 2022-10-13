@@ -3,12 +3,12 @@
 
 int main(void)
 {
-	char letter;
+	char letter, upper;
 
 	for (letter = 'a'; letter <= 'z'; letter++)
 		putchar(letter);
 	if (letter == 'z')
-		for (letter = 'A'; letter <= 'Z'; letter++)
-			putchar(letter);
+		for (upper = 'A'; upper <= 'Z'; upper++)
+			putchar(upper);
 	return (0);
 }
