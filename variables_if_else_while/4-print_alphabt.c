@@ -6,7 +6,7 @@ int main(void)
 	char letter = 'a';
 
 	while (letter == 'a')
-		letter++;
+		letter+1;
 		if (letter == 'q' || letter == 'e')
 			putchar(letter+1);
 	return (0);
