@@ -9,5 +9,6 @@ int main(void)
 		putchar(letter);
 	for (upper = 'A'; upper <= 'Z'; upper++)
 		putchar(upper);
+	putchar('\n');
 	return (0);
 }
