@@ -10,6 +10,9 @@ int main(void)
 		if (letter != 'e' || letter != 'q')
 		{
 			putchar(letter);
+		}else
+		{
+			putchar(letter+1);
 		}
 	}
 	return (0);
