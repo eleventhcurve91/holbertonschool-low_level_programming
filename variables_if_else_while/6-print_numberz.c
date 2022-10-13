@@ -5,6 +5,7 @@ int main(void)
 {
 	int number;
 	while(number == 0)
-		putchar(number++);
+		putchar(number);
+	number++;
 	return (0);
 }
