@@ -3,11 +3,16 @@
 
 int main(void)
 {
-	int space;
+	int value;
 
-	for (space = 0; space <= 9; space++)
+	for (value = 0; value <= 9; value++)
 	{
-		putchar(space);
+		putchar((value % 10) + '0');
+		if (value == 9)
+			continue;
+		putchar(',');
+		putchar(' ');
 	}
+	putchar('\n');
 	return (0);
 }
