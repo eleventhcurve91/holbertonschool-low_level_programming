@@ -3,11 +3,11 @@
 
 int main(void)
 {
-	int rev;
+	int letter;
 
-	for (rev = 123; rev < 96; rev--)
+	for (letter = 123; letter < 96; letter--)
 	{
-		putchar(rev);
+		putchar(letter);
 	}
 	return (0);
 }
