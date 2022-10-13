@@ -10,4 +10,5 @@ int main(void)
 	if (letter == 'z')
 		for (letter = 'A'; letter <= 'Z'; letter++)
 			putchar(letter);
+	return (0);
 }
