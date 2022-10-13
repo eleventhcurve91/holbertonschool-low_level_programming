@@ -6,8 +6,12 @@ int main(void)
 	char letter = 'a';
 
 	for (letter = 'a'; letter <= 'z'; letter++)
+	{
 		putchar(letter);
-	while (letter == 'q'|| letter == 'e')
-		putchar(letter+1);
+	}
+	if (letter == 'e' || letter == 'q')
+	{
+		putchar(letter+1)
+	}
 	return (0);
 }
