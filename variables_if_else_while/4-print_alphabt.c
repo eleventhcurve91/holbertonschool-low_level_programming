@@ -3,10 +3,11 @@
 
 int main(void)
 {
-	char letter;
+	char letter = 'a';
 
-	for (letter = 'a'; letter <= 'z'; letter++)
-		if (letter != 'q' || letter != 'e')
-			putchar(letter);
+	while (letter == 'a')
+		letter++;
+		if (letter == 'q' || letter == 'e')
+			putchar(letter+1);
 	return (0);
 }
