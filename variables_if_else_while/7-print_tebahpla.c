@@ -3,9 +3,9 @@
 
 int main(void)
 {
-	int rev = 123;
+	int rev;
 
-	while(rev <= 96)
+	for (rev = 123; rev <= 96; rev--)
 	{
 		rev--;
 		putchar(rev);
