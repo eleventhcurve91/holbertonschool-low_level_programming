@@ -5,9 +5,9 @@ int main(void)
 {
 	char letter = 'a';
 
-	while (letter == 'a')
-		if (letter == 'q' || letter == 'e')
-			putchar(letter+1);
-	letter++;
+	for (letter == 'a'; letter <= 'z'; letter++)
+		putchar(letter);
+	while (letter == 'q'|| letter == 'e')
+		putchar(letter+1);
 	return (0);
 }
