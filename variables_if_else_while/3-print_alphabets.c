@@ -5,7 +5,7 @@ int main(void)
 {
 	char letter, upper;
 
-	for (letter = 'a'; letter <= 'z'; letter++)
+	for (letter = 'a'; letter <= 'Z'; letter++)
 		putchar(letter);
 	if (letter == 'z')
 		for (upper = 'A'; upper <= 'Z'; upper++)
