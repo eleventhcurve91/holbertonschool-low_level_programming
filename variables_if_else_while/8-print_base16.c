@@ -20,7 +20,7 @@ int main(void)
 
 	while (hex < 48)
 	{
-		if (hex < 10) 
+		if (hex < 10)
 		{
 			putchar(hex + '0');
 		}
