@@ -13,9 +13,11 @@ int main(void)
 		}
 		else if(hex > 41)
 		{
-			putchar(hex - 10 + 'A')
+			putchar(hex - 10 + 'A');
 		}
-		i++;
+		hex++;
 
 	}
+	putchar('\n');
+	return (0);
 }
