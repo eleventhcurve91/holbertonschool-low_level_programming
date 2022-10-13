@@ -3,8 +3,9 @@
 
 int main(void)
 {
-	for (char Alpha = 'a'; Alpha <= 'z'; Alpha++)
-		putchar(Alpha);
+	char letter;
+	for (char letter = 'a'; letter <= 'z'; letter++)
+		putchar(letter);
 	return (0);
 
 }
