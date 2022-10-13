@@ -10,7 +10,7 @@ int main(void)
 		if (letter != 'e' || letter != 'q')
 		{
 			putchar(letter);
-		}if else(letter == 'e')
+		}else if(letter == 'e')
 		{
 			putchar(letter+1);
 		}
