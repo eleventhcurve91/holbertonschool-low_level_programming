@@ -10,5 +10,6 @@ int main(void)
 		number++;
 		putchar(number);
 	}
+	putchar('\n');
 	return (0);
 }
