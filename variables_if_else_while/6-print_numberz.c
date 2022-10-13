@@ -4,8 +4,11 @@
 int main(void)
 {
 	int number;
+
 	while(number == 0)
+	{
 		putchar(number);
-	number++;
+	}
+	putchar++;
 	return (0);
 }
