@@ -3,6 +3,7 @@
 
 int main(void)
 {
-	while(int number == 0)
+	char number;
+	while(number == '0')
 		putchar(number++);
 }
