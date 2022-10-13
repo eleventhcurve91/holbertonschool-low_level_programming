@@ -8,7 +8,7 @@ int main(void)
 
 	for (space = 0; space <= 9; space++)
 	{
-		putchar(space + ',');
+		putchar(space);
 	}
 	return (0);
 }
