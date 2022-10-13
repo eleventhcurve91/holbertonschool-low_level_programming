@@ -7,7 +7,7 @@ int main(void)
 
 	for (letter = 'a'; letter <= 'z'; letter++)
 		putchar(letter);
-		for (upper = 'A'; upper <= 'Z'; upper++)
-			putchar(upper);
+	for (upper = 'A'; upper <= 'Z'; upper++)
+		putchar(upper);
 	return (0);
 }
