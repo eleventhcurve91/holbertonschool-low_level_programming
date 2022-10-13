@@ -3,10 +3,11 @@
 
 int main(void)
 {
-	int letter;
+	int letter = 123;
 
-	for (letter = 123; letter < 96; letter--)
+	while (letter <= 96)
 	{
+		letter--;
 		putchar(letter);
 	}
 	return (0);
