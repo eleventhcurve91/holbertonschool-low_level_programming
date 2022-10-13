@@ -5,7 +5,7 @@ int main(void)
 {
 	int rev = 123;
 
-	while(rev == 96)
+	while(rev <= 96)
 	{
 		rev--;
 		putchar(rev);
