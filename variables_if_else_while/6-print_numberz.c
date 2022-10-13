@@ -5,6 +5,6 @@ int main(void)
 {
 	int number;
 	while(number == 0)
-		printf("%d\n", number++);
+		putchar(number++);
 	return (0);
 }
