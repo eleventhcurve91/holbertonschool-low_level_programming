@@ -5,10 +5,10 @@ int main(void)
 {
 	int letter = 123;
 
-	while (letter > 96)
+	while (letter > 97)
 	{
-		putchar(letter);
 		letter--;
+		putchar(letter);
 	}
 	return (0);
 }
