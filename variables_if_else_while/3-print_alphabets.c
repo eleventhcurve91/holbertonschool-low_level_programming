@@ -5,10 +5,10 @@ int main(void)
 {
 	char letter, upper;
 
-	for (letter = 'A'; letter <= 'Z'; letter++)
+	for (letter = 'a'; letter <= 'z'; letter++)
 		putchar(letter);
 	if (letter == 'z')
-		for (upper = 'A'; upper <= 'Z'; upper++)
+		while (upper = 'A'; upper <= 'Z'; upper++)
 			putchar(upper);
 	return (0);
 }
