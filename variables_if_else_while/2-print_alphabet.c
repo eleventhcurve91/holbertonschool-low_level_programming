@@ -4,7 +4,7 @@
 int main(void)
 {
 	char letter;
-	for (char letter = 'a'; letter <= 'z'; letter++)
+	for (letter = 'a'; letter <= 'z'; letter++)
 		putchar(letter);
 	return (0);
 
