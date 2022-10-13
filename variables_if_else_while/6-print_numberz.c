@@ -5,6 +5,6 @@ int main(void)
 {
 	int number;
 	while(number == 0)
-		printf("%d", number++);
+		printf("%d\n", number++);
 	return (0);
 }
