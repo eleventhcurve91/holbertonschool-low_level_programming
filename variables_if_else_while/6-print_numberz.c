@@ -3,12 +3,12 @@
 
 int main(void)
 {
-	int number;
+	int number = 0;
 
-	while(number == 0)
+	while(number <= 9)
 	{
+		number++;
 		putchar(number);
 	}
-	putchar++;
 	return (0);
 }
