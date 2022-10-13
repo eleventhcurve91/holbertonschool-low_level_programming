@@ -5,7 +5,7 @@ int main(void)
 {
 	int letter = 123;
 
-	while (letter <= 96)
+	while (letter > 96)
 	{
 		putchar(letter);
 		letter--;
