@@ -7,8 +7,8 @@ int main(void)
 
 	while (letter <= 96)
 	{
-		letter--;
 		putchar(letter);
+		letter--;
 	}
 	return (0);
 }
