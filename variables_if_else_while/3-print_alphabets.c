@@ -7,8 +7,8 @@ int main(void)
 
 	for (letter = 'a'; letter <= 'z'; letter++)
 		putchar(letter);
-	if (letter == 'z')
-		while (upper = 'A'; upper <= 'Z'; upper++)
-			putchar(upper);
+		if (letter == 'z')
+			for (upper = 'A'; upper <= 'Z'; upper++)
+				putchar(upper);
 	return (0);
 }
