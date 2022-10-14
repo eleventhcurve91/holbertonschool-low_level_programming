@@ -11,10 +11,10 @@ void times_table(void)
 			xy = x*y;
 			if(xy <= 9)
 			{
+				_putchar(xy + '0')
 				_putchar(',');
 				_putchar(' ');
 				_putchar(' ');
-				_putchar(xy + '0');
 			}
 			if(y <= 9)
 			{
