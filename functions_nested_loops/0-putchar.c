@@ -7,6 +7,6 @@ int main(void)
 
 	for (x = 0; x <= 9; x++)
 		_putchar(letter[x]);
-
+	_putchar(10);
 	return (0);
 }
