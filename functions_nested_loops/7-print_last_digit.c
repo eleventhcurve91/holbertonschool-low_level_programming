@@ -5,7 +5,5 @@ int print_last_digit(int d)
 	int a;
 	a = d;
 
-	return (d,a);
-
-
+	printd("%d%d", a%10, d/10);
 }
