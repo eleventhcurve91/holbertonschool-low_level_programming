@@ -5,7 +5,6 @@ int print_last_digit(int d)
 	if (d <= 0)
 	{
 		d -= d % 10;
-
 	}
-	printf("%d%d", d, d) ;
+	printf("%d%d", d, d);
 }
