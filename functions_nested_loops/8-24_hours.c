@@ -15,11 +15,11 @@ void jack_bauer(void)
 	{
 		for(min = 0; min <= 59; min++)
 		{
-			putchar((hour / 10) + '10');
-			putchar((hour % 10) + '10');
+			putchar((hour / 10) + '0');
+			putchar((hour % 10) + '0');
 			putchar(':');
-			putchar((min /10) + '10');
-			putchar((min % 10) + '10');
+			putchar((min /10) + '0');
+			putchar((min % 10) + '0');
 			putchar(10);
 		}
 	}
