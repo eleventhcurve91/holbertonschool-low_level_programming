@@ -6,4 +6,5 @@ int print_last_digit(int d)
 	a = d;
 
 	printf("%d%d", a%10, d/10);
+	return (0);
 }
