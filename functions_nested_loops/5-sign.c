@@ -1,6 +1,6 @@
 #include "main.h"
 
-/*
+/**
  * print_sign - Write a function that prints the sign of a number.
  *
  * Returns 1 and prints + if n is greater than zero
