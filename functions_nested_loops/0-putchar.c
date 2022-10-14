@@ -3,9 +3,9 @@
 int main(void)
 {
 	int x;
-	char letter[9] = "_putchar";
+	char letter[8] = "_putchar";
 
-	for (x = 0; x <= 9; x++)
+	for (x = 0; x <= 8; x++)
 		_putchar(letter[x]);
 	_putchar(10);
 	return (0);
