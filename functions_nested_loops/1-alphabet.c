@@ -9,6 +9,7 @@
 void print_alphabet(void)
 {
        char prey;
+
 	for (prey = 'a'; prey <= 'z'; prey++)
 	{
 		_putchar(prey);
