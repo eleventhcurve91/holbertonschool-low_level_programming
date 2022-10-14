@@ -8,9 +8,7 @@ void times_table(void)
 	{
 		for (y = 0; x <= 9; y++)
 		{
-			putchar((x*y % 10) + '0');
-			putchar(',');
-			putchar(' ');
+			putchar(x + '0');
 		}if (x <= 9)
 		{
 			putchar('$');
