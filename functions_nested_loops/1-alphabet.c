@@ -14,5 +14,5 @@ void print_alphabet(void)
 	{
 		_putchar(prey);
 	}
-	return (0);
+	putchar(10);
 }
