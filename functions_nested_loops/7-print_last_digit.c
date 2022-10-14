@@ -1,9 +1,7 @@
 #include "main.h"
 
-int print_last_digit(int d)
+int print_last_digit(int d, x)
 {
-	int x;
-
 	if (d <= 0)
 	{
 		x = d;
