@@ -1,15 +1,10 @@
 #include "main.h"
 
-int _abs(int)
+int _abs(int n)
 {
-
 	if (n < 0)
 	{
-		n += -1;
-		printf("%d", n);
+		return (-n);
 	}
-	else
-	{
-		printf("%d",n);
-	}
+	return (n);
 }
