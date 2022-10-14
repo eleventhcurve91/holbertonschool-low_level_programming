@@ -23,7 +23,7 @@ void times_table(void)
 				_putchar(',');
 				_putchar(' ');
 			}
-			else if ()
+			else if (y == 9)
 			{
 				_putchar('$');
 			}
