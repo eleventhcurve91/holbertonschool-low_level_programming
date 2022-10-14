@@ -14,6 +14,7 @@ void times_table(void)
 				_putchar(xy + '0');
 				_putchar(',');
 				_putchar(' ');
+				_putchar(' ');
 			}
 			else if(y <= 9)
 			{
@@ -21,7 +22,6 @@ void times_table(void)
 				_putchar((xy / 10) + '0');
 				_putchar((xy % 10) + '0');
 				_putchar(',');
-				_putchar(' ');
 			}
 			else if (y == 9)
 			{
