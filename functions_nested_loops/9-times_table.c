@@ -2,7 +2,8 @@
 
 void times_table(void)
 {
-	int x, y, xy;
+	int x, y;
+	char xy
 
 	for (x = 0; x <= 9; x++)
 	{
