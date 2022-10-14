@@ -1,4 +1,5 @@
 #include "onepiece.h"
+#include "main.h"
 
 int main(void)
 {
