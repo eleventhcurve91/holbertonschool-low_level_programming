@@ -12,5 +12,5 @@ void times_table(void)
 			_putchar(xy + '0');
 		}
 	}
-	putchar(10):
+	putchar(10);
 }
