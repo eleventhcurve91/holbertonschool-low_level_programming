@@ -2,9 +2,18 @@
 
 int print_last_digit(int d)
 {
-	int a;
-	a = d;
+	int x;
 
-	printf("%d%d", a%10, d/10);
-	return (0);
+	x = n % 10;
+
+	if (n <= 0)
+	{
+		_putchar(-x + '0');
+		return (-x);
+	}
+	else
+	{
+		_putchar(x + '0');
+		return (x);
+	}
 }
