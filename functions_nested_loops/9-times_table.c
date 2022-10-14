@@ -1,4 +1,4 @@
-#include ""main.h"
+#include "main.h"
 
 void times_table(void)
 {
@@ -8,7 +8,7 @@ void times_table(void)
 	{
 		for (y = 0; x <= 9; y++)
 		{
-			xy = x*b;
+			xy = x*y;
 			putchar(xy);
 			putchar(',');
 			putchar(' ');
