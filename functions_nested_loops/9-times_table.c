@@ -2,13 +2,13 @@
 
 void times_table(void)
 {
-	int x, y, xy;
+	int x, y;
 
 	for (x = 0; x <= 9; x++)
 	{
 		for (y = 0; x <= 9; y++)
 		{
-			xy = x*y;
+			//xy = x*y;
 			putchar(x + '0');
 			putchar(',');
 			putchar(' ');
