@@ -10,6 +10,8 @@ void times_table(void)
 		{
 			xy = x*y;
 			_putchar(xy + '0');
+			_putchar(',');
+			_putchar(' ');
 		}
 	}
 	putchar(10);
