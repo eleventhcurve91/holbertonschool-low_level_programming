@@ -2,8 +2,7 @@
 
 void times_table(void)
 {
-	int x, y;
-	char xy;
+	int x, y, xy;
 
 	for (x = 0; x <= 9; x++)
 	{
@@ -13,6 +12,9 @@ void times_table(void)
 			putchar(xy + '0');
 			putchar(',');
 			putchar(' ');
+		}if (x <= 9)
+		{
+			putchar('$');
 		}
 	}
 	putchar(10);
