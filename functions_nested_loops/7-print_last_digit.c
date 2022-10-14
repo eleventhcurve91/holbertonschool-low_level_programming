@@ -1,6 +1,6 @@
 #include "main.h"
 
-int print_last_digit(int d, x)
+int print_last_digit(int d, int x)
 {
 	if (d <= 0)
 	{
