@@ -2,5 +2,5 @@
 
 int print_last_digit(int d)
 {
-	return ((d % 100));
+	return ((d %= 10));
 }
