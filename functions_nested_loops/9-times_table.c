@@ -14,6 +14,10 @@ void times_table(void)
 			_putchar(' ');
 			_putchar(' ');
 		}
+		if (y <= 9)
+		{
+			_putchar('$');
+		}
 	_putchar(10);
 	}
 }
