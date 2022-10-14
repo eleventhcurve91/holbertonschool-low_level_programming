@@ -9,15 +9,19 @@ void times_table(void)
 		for (y = 0; y <= 9; y++)
 		{
 			xy = x*y;
+			if(xy <= 9)
+			{
+				_putchar(xy + '0');
+
+			}
+			else
+			{
 			_putchar((xy / 10) + '0');
 			_putchar((xy % 10) + '0');
 			_putchar(',');
 			_putchar(' ');
 			_putchar(' ');
-		}
-		if (y <= 9)
-		{
-			_putchar('$');
+			}
 		}
 	_putchar(10);
 	}
