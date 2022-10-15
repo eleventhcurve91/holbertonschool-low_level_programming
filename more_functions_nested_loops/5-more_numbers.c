@@ -3,7 +3,7 @@
 void more_numbers(void)
 {
 	int x = 0;
-	int y, z;
+	int y;
 	
 	while(x < 10)
 	{
