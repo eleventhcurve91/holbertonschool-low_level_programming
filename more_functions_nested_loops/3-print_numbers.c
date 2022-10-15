@@ -1,11 +1,10 @@
 #include "main.h"
 /**
- * main - check the code
+ * print_numbers - check the code
  *
  * Return: Always 0.
- *
  */
-int main(void)
+void print_number(void)
 {
 	int x;
 	for (x = 0; x <= 9; x++)
