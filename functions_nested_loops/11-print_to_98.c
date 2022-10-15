@@ -1,5 +1,10 @@
 #include "main.h"
 
+/**
+ * print_to_98 - check the code
+ * @n: check int
+ * Return: Always 0.
+ * */
 void print_to_98(int n)
 {
 	int x, y;
@@ -18,7 +23,7 @@ void print_to_98(int n)
 			}
 		}
 	}
-	else if ( n >= 98)
+	else if (n >= 98)
 	{
 		for (y = n; y >= 98; y--)
 		{
