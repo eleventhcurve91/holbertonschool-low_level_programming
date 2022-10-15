@@ -6,8 +6,9 @@ void print_diagonal(int n)
 
 	for (x = 0; x <= n; x++)
 	{
-		_putchar(' ');
-	}if ( x == n)
+		_putchar(92);
+	}
+	if ( x == n)
 	{
 		_putchar(92);
 	}
