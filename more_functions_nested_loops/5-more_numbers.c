@@ -11,7 +11,7 @@ void more_numbers(void)
 		{
 			if (y < 10)
 			{
-				_putchar(y + '0');
+				printf("%c", y);
 			}
 			else if(y > 9)
 			{
