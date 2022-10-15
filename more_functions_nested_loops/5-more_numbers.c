@@ -11,12 +11,12 @@ void more_numbers(void)
 		{
 			if (y < 10)
 			{
-				printf("%c", y);
+				printf("%d", y);
 			}
 			else if(y > 9)
 			{
-				_putchar((y / 10) + '0');
-				_putchar((y % 10) + '0');
+				printf("%d", (y / 10));
+				printf("%d", (y % 10));
 			}
 		}
 	}
