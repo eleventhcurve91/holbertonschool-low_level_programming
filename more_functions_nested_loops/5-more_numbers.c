@@ -9,7 +9,7 @@ void more_numbers(void)
 	{
 		for (y = 0; y <= 14; y++)
 		{
-			_putchar((y/10)b/c + '0');
+			_putchar((y / 10 ) + '0');
 
 			else if(y > 9)
 			{
