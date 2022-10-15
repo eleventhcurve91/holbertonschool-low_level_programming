@@ -8,7 +8,7 @@ void more_numbers(void)
 	
 	while(x < 10)
 	{
-		for (y = 0; y <= 20; y++)
+		for (y = 0; y <= 19; y++)
 		{
 			_putchar(number[y] + '0');
 		}
