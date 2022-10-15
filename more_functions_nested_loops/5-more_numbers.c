@@ -18,7 +18,7 @@ void more_numbers(void)
 				printf("%d", (y / 10));
 				printf("%d", (y % 10));
 			}
-	x++;	}
+		}
 	_putchar(10);
 	}
 }
