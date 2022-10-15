@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * main - check the code
+ * mul - check the code
  *
  * @a: check to int
  * @b: check to int
