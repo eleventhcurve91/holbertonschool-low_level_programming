@@ -13,13 +13,15 @@ void more_numbers(void)
 			{
 				_putchar(y + '0');
 			}
+			if ( y == 15)
+			{
+				y = '\n';
+			}
 			if(y >= 10)
 			{
 				_putchar((y / 10) + '0');
 				_putchar((y % 10) + '0');
 			}
-			else if (y == 15)
-				y = - 43;
 		}
 		x++;
 	}
