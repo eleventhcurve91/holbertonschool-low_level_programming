@@ -10,9 +10,9 @@ void more_numbers(void)
 	{
 		for (y = 0; y <= 14; y++)
 		{
-			_putchar(numer[y]);
+			_putchar(number[y]);
 		}
-		i++;
+		x++;
 		_putchar(10);
 	}
 }
