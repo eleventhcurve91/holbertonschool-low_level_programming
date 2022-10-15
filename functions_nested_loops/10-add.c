@@ -1,8 +1,9 @@
 #include "main.h"
 
 /**
- * main - check the code
- *
+ * add - check the code
+ * @a int for check
+ * @b int fot check
  * Return: Always 0.
  *
  */
