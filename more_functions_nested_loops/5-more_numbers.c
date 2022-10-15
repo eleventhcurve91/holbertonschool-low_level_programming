@@ -5,7 +5,7 @@ void more_numbers(void)
 	int x = 0;
 	int y;
 
-	while(x < 14)
+	while(x >= 14)
 	{
 		for (y = 0; y <= 14; y++)
 		{
@@ -16,5 +16,6 @@ void more_numbers(void)
 			}
 		}
 	}
+	x++;
 
 }
