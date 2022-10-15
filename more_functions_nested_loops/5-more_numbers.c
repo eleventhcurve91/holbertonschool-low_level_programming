@@ -9,16 +9,13 @@ void more_numbers(void)
 	{
 		for (y = 0; y <= 14; y++)
 		{
-			if (y < 10)
-			{
-				printf("%d", y);
-			}
+			_putchar((y/10)b/c + '0');
+
 			else if(y > 9)
 			{
-				printf("%d", (y / 10));
-				printf("%d", (y % 10));
+				_putchar((y % 10) + '0');
 			}
 		}
-	_putchar(10);
+		x++;
 	}
 }
