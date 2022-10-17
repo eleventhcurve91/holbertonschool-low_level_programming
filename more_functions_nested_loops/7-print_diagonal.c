@@ -2,7 +2,7 @@
 
 void print_diagonal(int n)
 {
-	int x;
+	int x, y;
 
 	for (x = 0; x <= n; x++)
 	{
