@@ -4,4 +4,5 @@
 int _strlen(char *s)
 {
 	printf("%zu", strlen(s));
+	return (0);
 }
