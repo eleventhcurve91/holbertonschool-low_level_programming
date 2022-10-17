@@ -11,9 +11,8 @@ void print_square(int size)
 			putchar('#');
 
 		}
-		_putchar(10);
 	}
-	if (x ==  size || x != 0)
+	if (x == size || x != 0)
 	{
 		_putchar(10);
 	}
