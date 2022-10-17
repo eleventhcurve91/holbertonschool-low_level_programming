@@ -3,5 +3,5 @@
 
 int _strlen(char *s)
 {
-	strlen(s);
+	printf("%zu", strlen(s));
 }
