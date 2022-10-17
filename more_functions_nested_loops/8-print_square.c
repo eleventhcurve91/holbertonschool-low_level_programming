@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * main - check the code
+ * print_square - check the code
  * @size: int to check
  * Return: Always 0.
  *
