@@ -24,7 +24,7 @@ int main(void)
 		}
 		else if (x % 5 != 0 && x % 3 != 0)
 		{
-			if(x == 1)
+			if (x == 1)
 			{
 				printf("%d", x);
 			}
