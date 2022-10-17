@@ -1,5 +1,10 @@
 #include "main.h"
 
+/**
+ * print_triangle - check the code
+ * @size: int to check
+ * Return: Always 0.
+ */
 void print_triangle(int size)
 {
 
@@ -17,7 +22,7 @@ void print_triangle(int size)
 		}
 		_putchar(10);
 	}
-	if(size <= 0)
+	if (size <= 0)
 	{
 		_putchar(10);
 	}
