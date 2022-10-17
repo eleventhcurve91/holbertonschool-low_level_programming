@@ -1,5 +1,5 @@
 /**
- * main - check the code
+ * swap_int - check the code
  * @a: check to int pointer
  * @b: check to int pointer
  * Return: Always 0.
