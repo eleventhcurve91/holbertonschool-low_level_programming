@@ -11,12 +11,9 @@ void print_square(int size)
 			putchar('#');
 
 		}
+	_putchar(10);
 	}
-	if (x == size || x != 0)
-	{
-		_putchar(10);
-	}
-	else if(x <= size)
+	else if(size <= 0)
 	{
 		_putchar(10);
 	}
