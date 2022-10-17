@@ -1,5 +1,11 @@
 #include "main.h"
 
+/**
+ * main - check the code
+ * @size: int to check
+ * Return: Always 0.
+ *
+ */
 void print_square(int size)
 {
 	int x, y;
