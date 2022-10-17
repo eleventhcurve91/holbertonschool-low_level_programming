@@ -28,4 +28,5 @@ int main(void)
 		printf("%ld\n", pull);
 		return (0);
 	}
+	return (0);
 }
