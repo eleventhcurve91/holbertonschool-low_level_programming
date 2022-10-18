@@ -5,7 +5,7 @@
 void print_rev(char *s)
 {
 	char dato;
-	dato = *s;
+	dato = s;
 	strrev(dato);
 
 	printf("%s", dato);
