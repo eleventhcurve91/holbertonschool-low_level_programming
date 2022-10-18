@@ -4,9 +4,11 @@
 
 void print_rev(char *s)
 {
-	char dato;
-	dato = s;
-	strrev(dato);
+	int x, y;
+	x = strlen[s]
 
-	printf("%s", dato);
+	printf(y = x; y <= 0; y--)
+	{
+		_putchar(s[y]);
+	}
 }
