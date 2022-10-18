@@ -4,10 +4,10 @@
 
 void print_rev(char *s)
 {
-	int x = 0;
+	int x;
 	x = strlen(s);
 
-	while (x > 0 && *s != '\0'){
+	while (x >= 0 && *s != '\0'){
 	{
 		_putchar(s[x]);
 	}
