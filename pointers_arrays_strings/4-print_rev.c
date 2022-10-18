@@ -11,6 +11,6 @@ void print_rev(char *s)
 	{
 		printf("%c", s[x]);
 	}
-	y--;
+	x--;
 	}
 }
