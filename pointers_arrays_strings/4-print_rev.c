@@ -9,7 +9,7 @@ void print_rev(char *s)
 
 	printf("valor de x: %d", x);
 
-	for (y = x; y < 0; y--)
+	for (y = 7; y < 0; y--)
 	{
 		_putchar(s[y]);
 	}
