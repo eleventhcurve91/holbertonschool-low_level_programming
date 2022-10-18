@@ -7,9 +7,7 @@ void print_rev(char *s)
 	int x, y;
 	x = strlen(s);
 
-	printf("valor de x: %d", x);
-
-	for (y = 7; y < 0; y--)
+	for (y = x; y < 0; y--)
 	{
 		printf("%c", s[y]);
 	}
