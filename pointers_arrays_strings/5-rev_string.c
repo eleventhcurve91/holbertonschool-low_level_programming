@@ -10,4 +10,10 @@ void rev_string(char *s)
 		_putchar(s[x]);
 	}
 	x++;
+
+	while (x > 0)
+	{
+		_putchar(s[x]);
+	}
+	x--;
 }
