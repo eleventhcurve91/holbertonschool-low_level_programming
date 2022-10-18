@@ -4,13 +4,13 @@
 
 void print_rev(char *s)
 {
-	int x, y = 0;
+	int x;
 	x = strlen(s);
 
-	while (y < x){
+	while (x > 0){
 	{
 		printf("%c", s[y]);
 	}
-	y++;
+	y--;
 	}
 }
