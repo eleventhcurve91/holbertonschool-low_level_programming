@@ -4,7 +4,7 @@
 
 void print_rev(char *s)
 {
-	int x, y, z;
+	int x, y;
 	x = strlen(s);
 
 	printf("valor de x: %d", x);
