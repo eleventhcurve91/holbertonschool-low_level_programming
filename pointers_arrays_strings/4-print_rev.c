@@ -5,7 +5,7 @@
 void print_rev(char *s)
 {
 	int x, y;
-	x = strlen[s]
+	x = strlen(s);
 
 	printf(y = x; y <= 0; y--)
 	{
