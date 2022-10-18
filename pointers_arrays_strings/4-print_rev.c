@@ -4,12 +4,12 @@
 
 void print_rev(char *s)
 {
-	int x;
+	int x = 0;
 	x = strlen(s);
 
 	while (x > 0){
 	{
-		printf("%c", s[y]);
+		printf("%c", s[x]);
 	}
 	y--;
 	}
