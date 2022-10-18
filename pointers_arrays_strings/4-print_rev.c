@@ -7,14 +7,9 @@ void print_rev(char *s)
 	int x = 0;
 	x = strlen(s);
 
-	while (x >= 0){
+	while (x >= 0 && s != '\0'){
 	{
 		_putchar(s[x]);
-
-		if (s == '\0')
-		{
-			_putchar(10);
-		}
 	}
 	x--;
 	}
