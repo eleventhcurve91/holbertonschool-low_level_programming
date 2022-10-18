@@ -9,7 +9,12 @@ void print_rev(char *s)
 
 	while (x >= 0){
 	{
-		_putchar(s[x + 1]);
+		_putchar(s[x]);
+
+		if (s == '\0')
+		{
+			_putchar(10);
+		}
 	}
 	x--;
 	}
