@@ -13,5 +13,4 @@ void print_rev(char *s)
 	}
 	x--;
 	}
-	_putchar(10);
 }
