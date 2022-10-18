@@ -4,7 +4,7 @@
 /**
  * _puts - check the code
  * @str: char to check
- * Return: Always 0.
+ * Return: Always 0 (Succes).
  */
 void _puts(char *str)
 {
